@@ -94,5 +94,53 @@
     "category": "marketing",
     "source": "agent",
     "verified": true
+  },
+  {
+    "id": "n17817401204434783",
+    "text": "[운영 2026-06-17 사이클#37] 영숙: \"보랏빛 소가 온다\" 마케팅 전략 적용하여 World Sound의 차별성을 부각하는 새로운 서비스 아이디어  (C:\\Users\\User\\Desktop\\오늘업무_2026-06-17/오늘) / 영숙: youtube_channel_analysis.txt</write_file>: YouTube 채널 분석 결과  (paypal_account_setup.txt)",
+    "tags": [
+      "2026",
+      "영숙",
+      "youtube",
+      "txt",
+      "운영",
+      "사이클"
+    ],
+    "ts": 1781740120443,
+    "category": "marketing",
+    "source": "agent",
+    "verified": true
+  },
+  {
+    "id": "n17817401892782342",
+    "text": "[운영 2026-06-17 사이클#38] 현빈: PayPal 계정 만들고 🗂️ 연동에 Client ID/Secret 입력하기 / 현빈: 내 서비스에 맞는 수익 모델 3가지 조사·정리 (오늘업무_2026-06-17/사업전략.md, facebook_page.md) / 레오: 유튜브 채널 개설하고 🗂️ 연동에 API 키·채널 ID 입력하기",
+    "tags": [
+      "2026",
+      "현빈",
+      "연동에",
+      "입력하기",
+      "채널",
+      "운영"
+    ],
+    "ts": 1781740189278,
+    "category": "business",
+    "source": "agent",
+    "verified": true
+  },
+  {
+    "id": "n17817403664505806",
+    "text": "[운영 2026-06-17 사이클#42] 영숙: \"보랏빛 소가 온다\" 마케팅 전략 적용하여, World Sound의 차별성을 부각하는 새로운 서비스 아이디어 (오늘업무_2026-06-17/오늘브리핑.md)",
+    "tags": [
+      "2026",
+      "운영",
+      "사이클",
+      "영숙",
+      "보랏빛",
+      "소가"
+    ],
+    "ts": 1781740366450,
+    "category": "marketing",
+    "source": "agent",
+    "verified": true
   }
 ]
