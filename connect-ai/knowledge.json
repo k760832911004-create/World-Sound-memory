@@ -46,5 +46,53 @@
     "category": "marketing",
     "source": "ezerai",
     "verified": true
+  },
+  {
+    "id": "n17817393659181586",
+    "text": "[운영 2026-06-17 사이클#32] 영숙: YouTube 채널 분석 결과 보고서 생성 <write_file>youtube_channel_analysis (paypal_account_setup.txt, youtube_channel_setup.txt) / 영숙: Instagram 계정 연동 API 키 입력 및 데이터 수집 시작 <run>python3 \"C:\\Users\\ (paypal_account_setup.txt, youtube_channel_setup.txt, paypal_account_setup.txt, youtube_channel_setup.txt, paypal_account_setup.txt, youtube_channel_setup.txt, paypal_account_setup.txt, youtube_channel_setup.txt, paypal_account_setup.txt, youtube_channel_setup.txt, paypal_account_setup.txt, youtube_channel_setup.txt, paypal_account_setup.txt, youtube_channel_setup.txt, paypal_account_setup.txt, youtube_channel_setup.txt)",
+    "tags": [
+      "setup",
+      "txt",
+      "youtube",
+      "channel",
+      "paypal",
+      "account"
+    ],
+    "ts": 1781739365918,
+    "category": "marketing",
+    "source": "agent",
+    "verified": true
+  },
+  {
+    "id": "n17817394581194768",
+    "text": "[운영 2026-06-17 사이클#33] 영숙: \"보랏빛 소가 온다\" 마케팅 전략 적용하여, World Sound의 차별성을 부각하는 새로운 서비스 아이디어 (C:\\Users\\User\\Desktop\\오늘업무_2026-06-17/오늘) / 영숙: \"youtube_channel_analysis\" 보고서를 토대로, YouTube 콘텐츠 플랫폼 전략 수립.  (C:\\Users\\User\\Desktop\\오늘업무_2026-06-17\\Wo, C:\\Users\\User\\Desktop\\오늘업무_2026-06-17\\Wo)",
+    "tags": [
+      "2026",
+      "users",
+      "user",
+      "desktop",
+      "오늘업무",
+      "영숙"
+    ],
+    "ts": 1781739458119,
+    "category": "marketing",
+    "source": "agent",
+    "verified": true
+  },
+  {
+    "id": "n17817395821505989",
+    "text": "[운영 2026-06-17 사이클#35] 영숙: \"instagram_account_setup.txt\" 작성: 인스타그램 계정 설정 가이드 생성, 키워드 및  (오늘업무_2026-06-17/오늘브리핑.md)",
+    "tags": [
+      "2026",
+      "운영",
+      "사이클",
+      "영숙",
+      "instagram",
+      "account"
+    ],
+    "ts": 1781739582150,
+    "category": "marketing",
+    "source": "agent",
+    "verified": true
   }
 ]
