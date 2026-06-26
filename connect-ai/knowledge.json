@@ -494,5 +494,21 @@
     "category": "marketing",
     "source": "agent",
     "verified": true
+  },
+  {
+    "id": "n17824784636674557",
+    "text": "[운영 2026-06-26 사이클#193] 영숙: YouTube 채널 최근 영상의 첫 30초 후킹 패턴 자동 분석 (성공/실패 지점 데이터 추출): <run> (오늘업무_2026-06-26/오늘브리핑.md)",
+    "tags": [
+      "2026",
+      "193",
+      "운영",
+      "사이클",
+      "영숙",
+      "youtube"
+    ],
+    "ts": 1782478463667,
+    "category": "marketing",
+    "source": "agent",
+    "verified": true
   }
 ]
