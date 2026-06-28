@@ -798,5 +798,21 @@
     "category": "business",
     "source": "agent",
     "verified": true
+  },
+  {
+    "id": "n17826547261896199",
+    "text": "[운영 2026-06-28 사이클#264] 영숙: \"Black Screen Deep Sleep\" 영상 데이터와 최근 10개 영상의 시청 지속 시간/이탈 지점을 (오늘업무_2026-06-28/오늘브리핑.md)",
+    "tags": [
+      "2026",
+      "264",
+      "운영",
+      "사이클",
+      "영숙",
+      "black"
+    ],
+    "ts": 1782654726189,
+    "category": "marketing",
+    "source": "agent",
+    "verified": true
   }
 ]
