@@ -1006,5 +1006,21 @@
     "category": "marketing",
     "source": "agent",
     "verified": true
+  },
+  {
+    "id": "n17827408296635471",
+    "text": "[운영 2026-06-29 사이클#286] 현빈: 내 서비스에 맞는 수익 모델 3가지 조사·정리 / 레오: 지난달 인기 영상 분석 후 후속 기획안 3개 작성 / 코다리: 최근 커밋 분석 후 다음 개발 목표 정의 및 일정 수립 (오늘업무_2026-06-29/AI_Memory_Demo/memory_an, 오늘업무_2026-06-29/AI_Memory_Demo/memory_an)",
+    "tags": [
+      "memory",
+      "2026",
+      "분석",
+      "오늘업무",
+      "demo",
+      "286"
+    ],
+    "ts": 1782740829663,
+    "category": "marketing",
+    "source": "agent",
+    "verified": true
   }
 ]
