@@ -1086,5 +1086,21 @@
     "category": "business",
     "source": "agent",
     "verified": true
+  },
+  {
+    "id": "n1782806591304978",
+    "text": "[운영 2026-06-30 사이클#301] 영숙: 🗂️ 결제 시스템 연동 (PayPal/토스 API 키 입력 및 테스트) <write_file> (오늘업무_2026-06-30/오늘브리핑.md)",
+    "tags": [
+      "2026",
+      "301",
+      "운영",
+      "사이클",
+      "영숙",
+      "결제"
+    ],
+    "ts": 1782806591305,
+    "category": "coding",
+    "source": "agent",
+    "verified": true
   }
 ]
