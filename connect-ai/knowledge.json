@@ -1646,5 +1646,37 @@
     "category": "business",
     "source": "agent",
     "verified": true
+  },
+  {
+    "id": "n17846270430639011",
+    "text": "[운영 2026-07-21 사이클#488] 영숙: 지난 사이클 'Black Screen Deep Sleep' 시청자 이탈 지점 분석 결과를 바탕으로 후속 콘텐 (오늘업무_2026-07-21/오늘브리핑.md)",
+    "tags": [
+      "2026",
+      "사이클",
+      "488",
+      "운영",
+      "영숙",
+      "지난"
+    ],
+    "ts": 1784627043063,
+    "category": "marketing",
+    "source": "agent",
+    "verified": true
+  },
+  {
+    "id": "n17846271613136956",
+    "text": "[운영 2026-07-21 사이클#491] 영숙: \" Black Screen Deep Sleep\" 시청자 데이터 분석 결과를 바탕으로 후속 콘텐츠 아이디어 3 (오늘업무_2026-07-21/오늘브리핑.md)",
+    "tags": [
+      "2026",
+      "491",
+      "운영",
+      "사이클",
+      "영숙",
+      "black"
+    ],
+    "ts": 1784627161313,
+    "category": "marketing",
+    "source": "agent",
+    "verified": true
   }
 ]
