@@ -1694,5 +1694,21 @@
     "category": "marketing",
     "source": "agent",
     "verified": true
+  },
+  {
+    "id": "n17846761897018955",
+    "text": "[운영 2026-07-22 사이클#495] 영숙: 선택된 수익 모델 기반으로, YouTube 채널 '레오'에 맞는 콘텐츠 플랜 <write_file> 작성 ( (오늘업무_2026-07-22/오늘브리핑.md, ))",
+    "tags": [
+      "2026",
+      "495",
+      "운영",
+      "사이클",
+      "영숙",
+      "선택된"
+    ],
+    "ts": 1784676189702,
+    "category": "marketing",
+    "source": "agent",
+    "verified": true
   }
 ]
