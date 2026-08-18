@@ -2366,5 +2366,53 @@
     "category": "marketing",
     "source": "agent",
     "verified": true
+  },
+  {
+    "id": "n17870671748069008",
+    "text": "[운영 2026-08-19 사이클#649] 영숙: 행동 (today_task_2026-08-19/보고서.md, today_task_2026-08-19/아이디어_UVP.md) / 영숙: developer(코다리) : \"Black Screen Fresh Morni\" 영상의 분석 데이터를 바탕으로 (today_task_2026-08-19/보고서.md, today_task_2026-08-19/아이디어_UVP.md, today_task_2026-08-19/개발일정.md, today_task_2026-08-19/개발일정.md) / 영숙: business(현빈) : \"Black Screen Fresh Morni\" 영상의 인기 데이터를 바탕으로,  (today_task_2026-08-19/보고서.md, today_task_2026-08-19/보고서.md, today_task_2026-08-19/보고서.md) / 영숙: researcher : \"Black Screen Fresh Morn (today_task_2026-08-19/보고서.md, today_task_2026-08-19/아이디어_UVP.md) / 영숙: secretary(영숙) : 할 일 (feedback_form.md, service_models.md, uvp.md, development_plan.md)",
+    "tags": [
+      "2026",
+      "today",
+      "task",
+      "영숙",
+      "보고서",
+      "uvp"
+    ],
+    "ts": 1787067174806,
+    "category": "marketing",
+    "source": "agent",
+    "verified": true
+  },
+  {
+    "id": "n17870673439093422",
+    "text": "[운영 2026-08-19 사이클#650] Researcher: : 신규 서비스 아이디어 3개를 선정하고, 코다리와 협업하여 스토리보드를 만들고 있습니다. (오늘업무_2026-08-19/리서치.md) / 현빈: : 이 아이디어 중에서 핵심 가치 제안(UVP)을 제안합니다. (today/2026-08-19/사업전략.md, today/2026-08-19/사업전략.md, today/2026-08-19/사업전략.md) / Researcher: : 지난달 인기 영상 분석 후 기획안 3개를 선정하고, 코다리와 협업하여 스크린플레이를 작성합니다. (today/2026-08-19/보고서.md)",
+    "tags": [
+      "2026",
+      "today",
+      "사업전략",
+      "researcher",
+      "아이디어",
+      "개를"
+    ],
+    "ts": 1787067343909,
+    "category": "marketing",
+    "source": "agent",
+    "verified": true
+  },
+  {
+    "id": "n17870675295595612",
+    "text": "[운영 2026-08-19 사이클#651] 영숙: 리서치: 유튜브 '레오' 채널의 최근 10개 영상 데이터(시청 지속 시간, 이탈 지点, 평균 시청자 수)를  (오늘업무_2026-08-19/보고서.md)",
+    "tags": [
+      "2026",
+      "651",
+      "운영",
+      "사이클",
+      "영숙",
+      "리서치"
+    ],
+    "ts": 1787067529559,
+    "category": "marketing",
+    "source": "agent",
+    "verified": true
   }
 ]
