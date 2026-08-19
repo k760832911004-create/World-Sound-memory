@@ -2558,5 +2558,21 @@
     "category": "marketing",
     "source": "agent",
     "verified": true
+  },
+  {
+    "id": "n17871309653831131",
+    "text": "[운영 2026-08-19 사이클#663] 영숙: 유튜브 '레오' 채널에 'Black Screen Fresh Morning' 영상 스크립트 <write_fil (오늘업무_2026-08-19/오늘브리핑.md, 작성) / 영숙: PayPal API Key/Secret를 이용하여 수익 모델 적용 위한 코드 <write_file> 작성 및 (오늘업무_2026-08-19/오늘브리핑.md, 오늘업무_2026-08-19/BlackScreenFreshMorning_, 작성)",
+    "tags": [
+      "2026",
+      "오늘업무",
+      "작성",
+      "영숙",
+      "write",
+      "오늘브리핑"
+    ],
+    "ts": 1787130965383,
+    "category": "marketing",
+    "source": "agent",
+    "verified": true
   }
 ]
