@@ -2830,5 +2830,37 @@
     "category": "marketing",
     "source": "agent",
     "verified": true
+  },
+  {
+    "id": "n17875727251826726",
+    "text": "[운영 2026-08-24 사이클#698] 영숙: 유튜브 '레오' 채널 최근 10개 영상 데이터 분석 결과를 바탕으로 'Black Screen Fresh Mo (오늘업무_2026-08-24/오늘브리핑.md, 작성)",
+    "tags": [
+      "2026",
+      "698",
+      "운영",
+      "사이클",
+      "영숙",
+      "유튜브"
+    ],
+    "ts": 1787572725182,
+    "category": "marketing",
+    "source": "agent",
+    "verified": true
+  },
+  {
+    "id": "n17875727689248363",
+    "text": "[운영 2026-08-24 사이클#699] 영숙: \"Black Screen Fresh Morning\" 영상 댓글 분석 결과를 바탕으로 유튜브 '레오' 채널에  (오늘업무_2026-08-24/오늘브리핑.md) / 영숙: 내 서비스에 맞는 수익 모델 3가지 조사·정리 <write_file>",
+    "tags": [
+      "2026",
+      "영숙",
+      "699",
+      "운영",
+      "사이클",
+      "black"
+    ],
+    "ts": 1787572768924,
+    "category": "marketing",
+    "source": "agent",
+    "verified": true
   }
 ]
