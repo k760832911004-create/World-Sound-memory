@@ -2974,5 +2974,53 @@
     "category": "business",
     "source": "agent",
     "verified": true
+  },
+  {
+    "id": "n17878213626421683",
+    "text": "[운영 2026-08-27 사이클#712] 영숙: 'Black Screen Fresh Morning' 영상에 적용 가능한 수익 모델 중 가장 현실적이고 수익  (오늘업무_2026-08-27/오늘브리핑.md, 작성 완료 대기 중입니다.)",
+    "tags": [
+      "2026",
+      "수익",
+      "712",
+      "운영",
+      "사이클",
+      "영숙"
+    ],
+    "ts": 1787821362642,
+    "category": "marketing",
+    "source": "agent",
+    "verified": true
+  },
+  {
+    "id": "n1787821400615483",
+    "text": "[운영 2026-08-27 사이클#713] 영숙: 'Black Screen Fresh Morning' 영상에 적용 가능한 수익 모델 5가지 제안 <write_ (오늘업무_2026-08-27/오늘브리핑.md)",
+    "tags": [
+      "2026",
+      "713",
+      "운영",
+      "사이클",
+      "영숙",
+      "black"
+    ],
+    "ts": 1787821400615,
+    "category": "marketing",
+    "source": "agent",
+    "verified": true
+  },
+  {
+    "id": "n17878214740028719",
+    "text": "[운영 2026-08-27 사이클#714] 영숙: 'Black Screen Fresh Morning' 영상의 최신 데이터(시청 지속 시간, 이탈 지점, 평균  (오늘업무_2026-08-27/오늘브리핑.md)",
+    "tags": [
+      "2026",
+      "714",
+      "운영",
+      "사이클",
+      "영숙",
+      "black"
+    ],
+    "ts": 1787821474002,
+    "category": "marketing",
+    "source": "agent",
+    "verified": true
   }
 ]
