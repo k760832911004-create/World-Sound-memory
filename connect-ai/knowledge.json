@@ -3694,5 +3694,37 @@
     "category": "marketing",
     "source": "agent",
     "verified": true
+  },
+  {
+    "id": "n17891834347934207",
+    "text": "[운영 2026-09-12 사이클#797] 영숙: \"Black Screen 2026 August\" 영상 후속 기획안 3개를 바탕으로 콘텐츠 제작 계획 수립 < (오늘업무_2026-09-12/오늘브리핑.md)",
+    "tags": [
+      "2026",
+      "797",
+      "운영",
+      "사이클",
+      "영숙",
+      "black"
+    ],
+    "ts": 1789183434793,
+    "category": "marketing",
+    "source": "agent",
+    "verified": true
+  },
+  {
+    "id": "n17891834667878010",
+    "text": "[운영 2026-09-12 사이클#798] 영숙: \"Black Screen Fresh Morning\" 영상 수익 모델 분석 결과 보고서 작성 (오늘업무_2026-09-12/오늘브리핑.md) / 영숙: \"Black Screen\" 시리즈 영상 최적화를 통한 수익 모델 분석 및 보고서 작성 (오늘업무_2026-09-12/오늘브리핑.md)",
+    "tags": [
+      "2026",
+      "영숙",
+      "black",
+      "screen",
+      "영상",
+      "수익"
+    ],
+    "ts": 1789183466787,
+    "category": "marketing",
+    "source": "agent",
+    "verified": true
   }
 ]
