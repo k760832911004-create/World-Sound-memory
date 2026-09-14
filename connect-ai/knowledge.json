@@ -3806,5 +3806,53 @@
     "category": "marketing",
     "source": "agent",
     "verified": true
+  },
+  {
+    "id": "n17893735109127404",
+    "text": "[운영 2026-09-14 사이클#808] 영숙: \"Black Screen\" 시리즈 영상에 적용 가능한 최적의 수익 모델 3가지 조사·정리 <write_fil (오늘업무_2026-09-14/오늘브리핑.md)",
+    "tags": [
+      "2026",
+      "808",
+      "운영",
+      "사이클",
+      "영숙",
+      "black"
+    ],
+    "ts": 1789373510913,
+    "category": "marketing",
+    "source": "agent",
+    "verified": true
+  },
+  {
+    "id": "n17893735461393485",
+    "text": "[운영 2026-09-14 사이클#809] 영숙: \"Black Screen\" 시리즈 영상 최적화 계획 수립 <write_file> (오늘업무_2026-09-14/오늘브리핑.md)",
+    "tags": [
+      "2026",
+      "809",
+      "운영",
+      "사이클",
+      "영숙",
+      "black"
+    ],
+    "ts": 1789373546139,
+    "category": "marketing",
+    "source": "agent",
+    "verified": true
+  },
+  {
+    "id": "n1789373621093240",
+    "text": "[운영 2026-09-14 사이클#811] 영숙: \"Black Screen\" 시리즈 영상 최적화 데이터 분석 보고서 작성 (오늘업무_2026-09-14/오늘브리핑.md)",
+    "tags": [
+      "2026",
+      "811",
+      "운영",
+      "사이클",
+      "영숙",
+      "black"
+    ],
+    "ts": 1789373621093,
+    "category": "marketing",
+    "source": "agent",
+    "verified": true
   }
 ]
