@@ -4078,5 +4078,37 @@
     "category": "marketing",
     "source": "agent",
     "verified": true
+  },
+  {
+    "id": "n17900706261042242",
+    "text": "[운영 2026-09-22 사이클#855] 영숙: \"Black Screen\" 시리즈 영상 최적화 데이터 분석 보고서 분석 결과를 바탕으로 \"Black Scre (오늘업무_2026-09-22/오늘브리핑.md)",
+    "tags": [
+      "2026",
+      "black",
+      "분석",
+      "855",
+      "운영",
+      "사이클"
+    ],
+    "ts": 1790070626104,
+    "category": "marketing",
+    "source": "agent",
+    "verified": true
+  },
+  {
+    "id": "n17900706982175050",
+    "text": "[운영 2026-09-22 사이클#856] 영숙: 내 서비스에 맞는 수익 모델 3가지 조사·정리 <write_file> (오늘업무_2026-09-22/오늘브리핑.md)",
+    "tags": [
+      "2026",
+      "856",
+      "운영",
+      "사이클",
+      "영숙",
+      "서비스에"
+    ],
+    "ts": 1790070698217,
+    "category": "business",
+    "source": "agent",
+    "verified": true
   }
 ]
