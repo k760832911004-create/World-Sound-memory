@@ -4302,5 +4302,21 @@
     "category": "business",
     "source": "agent",
     "verified": true
+  },
+  {
+    "id": "n17907414634418469",
+    "text": "[운영 2026-09-30 사이클#891] 영숙: 수익 모델 상세 계획서 기반 시장 분석 및 경쟁 현황 조사 보고서 <write_file> (오늘업무_2026-09-30/오늘브리핑.md)",
+    "tags": [
+      "2026",
+      "891",
+      "운영",
+      "사이클",
+      "영숙",
+      "수익"
+    ],
+    "ts": 1790741463441,
+    "category": "business",
+    "source": "agent",
+    "verified": true
   }
 ]
