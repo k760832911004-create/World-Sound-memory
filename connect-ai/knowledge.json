@@ -4782,5 +4782,21 @@
     "category": "business",
     "source": "agent",
     "verified": true
+  },
+  {
+    "id": "n17919635277857651",
+    "text": "[운영 2026-10-14 사이클#953] 영숙: 'Black Screen' 시리즈 제작 비용 예산 계획서 <write_file> 최종 수정 및 승인. (오늘업무_2026-10-14/오늘브리핑.md, 기반으로 제작 비용 절감 방안 및 추가 예산 요청 전략 수립 진행 중.)",
+    "tags": [
+      "2026",
+      "제작",
+      "비용",
+      "예산",
+      "953",
+      "운영"
+    ],
+    "ts": 1791963527785,
+    "category": "business",
+    "source": "agent",
+    "verified": true
   }
 ]
